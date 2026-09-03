@@ -1,5 +1,5 @@
 // Après déploiement de Apps Script, remplacer cette URL.
-const API_URL = 'https://script.google.com/a/macros/cssmi.qc.ca/s/AKfycbzAWSLwiDQqvbE4UyTdBc1VHK8CX9KJ24CfuBlN5FBRTJXxdmFXwoY7hpuBCBHM-Tuf/exec';
+const API_URL = 'https://script.google.com/macros/s/AKfycbyIFN3xXlfjOeh7wOTnO8ZD_CLDdfy3va7sKfugDhOhzhsSbm-x4z8QSftFMe3q_sj-/exec';
 const SCHOOL_YEAR_START = '2026-08-27'; // Jour 1 du cycle
 const SCHOOL_YEAR_END = '2027-06-30';
 const PERIODS = [
